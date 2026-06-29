@@ -1,0 +1,112 @@
+[
+  {
+    "id": "seed-nr-01", "tema": "nrs", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Conforme a NR-6, sobre Equipamento de Proteção Individual (EPI), é correto afirmar que:",
+    "alternativas": [
+      "o EPI pode ser cobrado do trabalhador quando de uso coletivo.",
+      "o empregador deve fornecer o EPI adequado ao risco, gratuitamente e em perfeito estado de conservação.",
+      "o uso do EPI é facultativo quando há EPC instalado.",
+      "a higienização do EPI é responsabilidade exclusiva do trabalhador."
+    ],
+    "correta": 1,
+    "explicacao": "A NR-6 determina que o empregador forneça o EPI adequado ao risco, gratuitamente, em perfeito estado e funcionamento. EPI é de uso individual e seu uso é obrigatório.",
+    "dificuldade": 2
+  },
+  {
+    "id": "seed-nr-02", "tema": "nrs", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Segundo a NR-35, considera-se trabalho em altura toda atividade executada acima de:",
+    "alternativas": ["1,50 m do nível inferior", "2,00 m do nível inferior, onde haja risco de queda", "3,00 m do nível inferior", "5,00 m do nível inferior"],
+    "correta": 1,
+    "explicacao": "A NR-35 define trabalho em altura como toda atividade executada acima de 2,00 m do nível inferior, onde haja risco de queda.",
+    "dificuldade": 1
+  },
+  {
+    "id": "seed-hig-01", "tema": "higiene", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "De acordo com o Anexo 1 da NR-15, o limite de tolerância para ruído contínuo ou intermitente, para uma exposição de 8 horas diárias, é de:",
+    "alternativas": ["80 dB(A)", "85 dB(A)", "90 dB(A)", "95 dB(A)"],
+    "correta": 1,
+    "explicacao": "Pela NR-15 (Anexo 1), o limite de tolerância para 8 horas de exposição diária a ruído contínuo/intermitente é 85 dB(A).",
+    "dificuldade": 2
+  },
+  {
+    "id": "seed-erg-01", "tema": "ergonomia", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "A NR-17 (Ergonomia) tem por objetivo estabelecer parâmetros que permitam a adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores. Sobre seu campo de atuação, é correto afirmar que abrange:",
+    "alternativas": [
+      "apenas o levantamento e transporte manual de cargas.",
+      "apenas o mobiliário dos postos de trabalho.",
+      "aspectos como levantamento de cargas, mobiliário, equipamentos, condições ambientais e organização do trabalho.",
+      "exclusivamente as condições de iluminação do ambiente."
+    ],
+    "correta": 2,
+    "explicacao": "A NR-17 é ampla: trata de levantamento/transporte de cargas, mobiliário, equipamentos dos postos de trabalho, condições ambientais (ruído, temperatura, iluminação) e organização do trabalho.",
+    "dificuldade": 2
+  },
+  {
+    "id": "seed-gst-01", "tema": "gestao-sst", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "A NR-1 estabelece o Gerenciamento de Riscos Ocupacionais (GRO). O documento que materializa o gerenciamento e substituiu o antigo PPRA é o:",
+    "alternativas": ["PCMSO", "PGR – Programa de Gerenciamento de Riscos", "PPP", "LTCAT"],
+    "correta": 1,
+    "explicacao": "Com a atualização da NR-1, o PGR (Programa de Gerenciamento de Riscos) passou a materializar o GRO, substituindo o PPRA. O PCMSO é o programa de saúde; o LTCAT e o PPP têm finalidade previdenciária.",
+    "dificuldade": 2
+  },
+  {
+    "id": "seed-gst-02", "tema": "gestao-sst", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Conforme a NR-5, a Comissão Interna de Prevenção de Acidentes (CIPA) tem como objetivo:",
+    "alternativas": [
+      "fiscalizar e multar a empresa em caso de descumprimento das NRs.",
+      "a prevenção de acidentes e doenças relacionadas ao trabalho, tornando compatível o trabalho com a preservação da vida e a promoção da saúde.",
+      "substituir o SESMT nas empresas de pequeno porte.",
+      "emitir a Comunicação de Acidente de Trabalho (CAT)."
+    ],
+    "correta": 1,
+    "explicacao": "A NR-5 define que a CIPA tem por objetivo a prevenção de acidentes e doenças relacionadas ao trabalho. Não é órgão fiscalizador nem substitui o SESMT.",
+    "dificuldade": 2
+  },
+  {
+    "id": "seed-leg-01", "tema": "legislacao", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Sobre a Comunicação de Acidente de Trabalho (CAT), prevista na Lei nº 8.213/91, o prazo para comunicação à Previdência Social é, em regra:",
+    "alternativas": [
+      "até o 1º (primeiro) dia útil seguinte ao da ocorrência e, em caso de morte, de imediato.",
+      "até 30 dias após a ocorrência.",
+      "apenas ao fim do tratamento médico.",
+      "facultativo, a critério do empregador."
+    ],
+    "correta": 0,
+    "explicacao": "A CAT deve ser comunicada até o primeiro dia útil seguinte ao da ocorrência do acidente e, em caso de morte, de imediato à autoridade competente.",
+    "dificuldade": 2
+  },
+  {
+    "id": "seed-seg-01", "tema": "seguranca", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Na hierarquia de medidas de controle de riscos ocupacionais, a ordem de prioridade correta, da mais eficaz para a menos eficaz, é:",
+    "alternativas": [
+      "EPI → medidas administrativas → medidas de proteção coletiva → eliminação do risco.",
+      "eliminação do risco → medidas de proteção coletiva → medidas administrativas → EPI.",
+      "medidas administrativas → EPI → eliminação do risco → proteção coletiva.",
+      "EPI → eliminação do risco → proteção coletiva → medidas administrativas."
+    ],
+    "correta": 1,
+    "explicacao": "A hierarquia de controles prioriza primeiro eliminar o risco na fonte; depois medidas de proteção coletiva (EPC); depois medidas administrativas/organizacionais; e por último o EPI, que é a última barreira.",
+    "dificuldade": 3
+  },
+  {
+    "id": "seed-rac-01", "tema": "raciocinio", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Em uma empresa, 3 técnicos inspecionam 12 máquinas em 4 horas. Mantendo o mesmo ritmo, quantas máquinas 5 técnicos inspecionam em 4 horas?",
+    "alternativas": ["15 máquinas", "18 máquinas", "20 máquinas", "24 máquinas"],
+    "correta": 2,
+    "explicacao": "Cada técnico inspeciona 12 ÷ 3 = 4 máquinas em 4 horas. Logo, 5 técnicos inspecionam 5 × 4 = 20 máquinas em 4 horas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "seed-por-01", "tema": "portugues", "ano": 2024, "fonte": "Banco-semente SST (revisar com provas oficiais)", "tipo": "objetiva",
+    "enunciado": "Assinale a alternativa em que a concordância verbal está correta:",
+    "alternativas": [
+      "Fazem dois anos que ocorreu o último acidente na planta.",
+      "Faz dois anos que ocorreu o último acidente na planta.",
+      "Houveram muitos acidentes no setor naquele ano.",
+      "Existe vários riscos não controlados no processo."
+    ],
+    "correta": 1,
+    "explicacao": "O verbo 'fazer' indicando tempo decorrido é impessoal e fica no singular: 'Faz dois anos'. 'Houveram' e 'Existe' (com sujeito plural) estão incorretos — o certo seria 'Houve' e 'Existem'.",
+    "dificuldade": 2
+  }
+]
