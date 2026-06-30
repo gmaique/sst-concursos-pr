@@ -1,5 +1,5 @@
 // bump esta versão sempre que mudar assets
-const CACHE = 'sst-v2';
+const CACHE = 'sst-v3';
 const ASSETS = [
   '.', 'index.html', 'styles.css', 'app.js',
   'src/logic.js', 'src/state.js', 'src/views.js',

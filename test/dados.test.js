@@ -20,10 +20,10 @@ describe('data/questoes.json — banco de questões Eng. Segurança do Trabalho 
     questoes = JSON.parse(raw);
   });
 
-  test('contém ao menos 10 questões (banco-semente; cresce com provas oficiais)', () => {
+  test('contém ao menos 150 questões (provas oficiais)', () => {
     const raw = readFileSync(join(dataDir, 'questoes.json'), 'utf8');
     questoes = JSON.parse(raw);
-    assert.ok(questoes.length >= 10, `esperado >= 10 questões, encontrado ${questoes.length}`);
+    assert.ok(questoes.length >= 150, `esperado >= 150 questões, encontrado `);
   });
 
   test('ids são únicos', () => {
